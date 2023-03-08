@@ -1,0 +1,27 @@
+
+  body{
+    font-size: 15;
+    background-image: url('https://avatars.mds.yandex.net/i?id=3e4be8a203511b4cebdc550fe46e8e938beca80b-5866283-images-thumbs&n=13');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.form{
+  background-color: rgba(255,255,255, 0.4);
+  margin-left: 100px;
+  margin-right: 100px;
+  border-radius: 20px;
+
+}
+
+button{
+  padding: 10px;
+  border: none;
+  border-radius: 1cm;
+  margin-top: 5px;
+  background-color: black;
+  color: white;
+}
+
+.btn button{
+   margin-bottom: 20px;
+}
